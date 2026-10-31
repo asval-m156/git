@@ -1,0 +1,9 @@
+# 密钥与凭据（绝不提交）
+.ssh-tmp/
+*.pem
+*.key
+id_ed25519*
+id_rsa*
+
+# 日志
+*.log
